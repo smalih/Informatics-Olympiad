@@ -1,0 +1,14 @@
+Total Score: 28/100
+
+1a) 15/23
+1b) 2/2
+	(A)(ABCBA)(A)
+	(A)(A)(BCB)(A)(A)
+	(A)(A)(B)(C)(B)(A)(A)
+	(AA)(BCB)(AA)
+	(AA)(B)(C)(B)(AA)
+
+2a) 11/27
+
+Remaining questions 0 marks
+

@@ -1,0 +1,11 @@
+Total Marks: 22/100
+
+1a) 20/26
+1b) 2/2
+
+All other questions: 0 marks
+
+Question 1a still requires imporvement, the bigger the values, the less accurate the output - probably due to early rounding.
+
+TLDR: 22% - NEEDS IMPROVEMENT
+
